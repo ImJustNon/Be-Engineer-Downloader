@@ -45,7 +45,7 @@ export class Convert {
             const outputPath = path.join(__dirname, "../../output", `${fileName}.mp4`);
             const ffmpegCommand = `ffmpeg -f concat -safe 0 -i ${path.join(__dirname, "../../cache/ffmpeg/concat_list.txt")} -c copy -y "${outputPath}"`;
             await execAsync(ffmpegCommand);
-            console.log('[ Info ] SUCCESS: Created output.mp4');
+            console.log(`[ Info ] SUCCESS: Created ${fileName}.mp4`);
         
             const stats = fs.statSync(outputPath);
             console.log(`[ Info ] File Size: ${(stats.size / 1024 / 1024).toFixed(1)} MB`);

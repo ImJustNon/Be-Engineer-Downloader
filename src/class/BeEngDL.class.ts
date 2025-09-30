@@ -34,6 +34,6 @@ export class BeEngDL {
 
     async concatAndConvert(){
         const filename = this.url.replace(".ts", "").replace(this.identifier, "").split("/");
-        await new Convert().concatAndConvert(filename[filename.length - 1]);
+        await new Convert().concatAndConvert(decodeURIComponent(filename[filename.length - 1]));
     }
 }
