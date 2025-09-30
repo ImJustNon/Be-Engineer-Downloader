@@ -10,7 +10,6 @@ type BeEngOptionSpecs = {
     startSegment: number;
     url: string;
     identifier: string; // | "<<>>" | "[]" | "$$$";
-    encryptKey: string;
 }
 
 export class BeEngDL {

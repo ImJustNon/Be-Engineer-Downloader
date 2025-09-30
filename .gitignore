@@ -16,11 +16,9 @@ build/
 *.tsbuildinfo
 
 # Cache directories
-cache/
 .cache/
 
 # Output files
-output/
 *.mp4
 *.avi
 *.mkv

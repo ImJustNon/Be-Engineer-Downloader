@@ -3,9 +3,8 @@ import { BeEngDL } from "./class/BeEngDL.class";
 
 const beeng = new BeEngDL({
     startSegment: 0,
-    url: "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%200.%20Introduction/Physics1%20M2%20-%200.%20Introduction<<>>.ts",
+    url: "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.1%20Angular%20Position%2C%20Angular%20Velocity%20and%20Angular%20Acceleration/Physics1%20M2%20-%205.1%20Angular%20Position,%20Angular%20Velocity%20and%20Angular%20Acceleration<<>>.ts",
     identifier: "<<>>",
-    encryptKey: ""
 });
 
 
