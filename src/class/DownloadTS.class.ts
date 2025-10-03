@@ -1,29 +1,15 @@
 import axios, { AxiosError } from "axios";
 import fs from "fs";
 import path from "path";
+import { PathManager } from "./PathManager.class";
 
 
-export class DownloadTS {
-    constructor(){}
-
-    private deleteCache(){
-        try {
-            fs.rmSync(path.join(__dirname, "../../cache/stream/encrypted"), { recursive: true, force: true });
-            fs.rmSync(path.join(__dirname, "../../cache/stream/decrypted"), { recursive: true, force: true });
-            console.log("[ Info ] Deleted /cache/stream dir");
-            fs.mkdirSync(path.join(__dirname, "../../cache/stream/encrypted"), { recursive: true });
-            fs.mkdirSync(path.join(__dirname, "../../cache/stream/decrypted"), { recursive: true });
-            console.log("[ Info ] Created /cache/stream dir");
-        }
-        catch(e){
-            console.log("[ Error ] Fail to delete or create /cache/stream");
-        }
+export class DownloadTS extends PathManager {
+    constructor(){
+        super();
     }
 
     async download(startSegment: number, url: string, identifier: string){
-        // Delete Old cache before download
-        this.deleteCache();
-
         let segmentCounting = startSegment;
         while(true){
             try {

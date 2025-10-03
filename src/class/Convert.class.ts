@@ -2,31 +2,18 @@ import fs from "fs";
 import path from "path";
 import { promisify } from "util";
 import { exec, spawn } from "child_process";
+import { PathManager } from "./PathManager.class";
 
 const execAsync = promisify(exec);
 
-export class Convert {
-    
-    private deleteOldConcat(){
-        try {
-            fs.rmSync(path.join(__dirname, "../../cache/ffmpeg/concat_list.txt"), { recursive: true, force: true });
-            console.log("[ Info ] Deleted /cache/ffmpeg/concat_list.txt");
-        }
-        catch(e){
-            console.log("[ Error ] Fail to delete or create /cache/ffmpeg/concat_list.txt");
-        }
+export class Convert extends PathManager {
+    constructor(){
+        super();
     }
 
     async concatAndConvert(fileName: string){
-        this.deleteOldConcat();
-
         try {
             console.log('[ Info ] Creating file list for FFmpeg');
-            
-            const outputDir = path.join(__dirname, "../../output");
-            if (!fs.existsSync(outputDir)) {
-                fs.mkdirSync(outputDir, { recursive: true });
-            }
             
             const files = fs.readdirSync(path.join(__dirname, "../../cache/stream/decrypted")).filter(f => f.endsWith('.ts')).sort((a, b) => {
                 const matchA = a.match(/(\d+)/);

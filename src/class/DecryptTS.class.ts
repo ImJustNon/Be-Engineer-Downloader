@@ -1,16 +1,18 @@
 import crypto from "crypto";
 import fs from "fs";
 import path from "path";
+import { PathManager } from "./PathManager.class";
 
 type DecryptTSOptionSpecs = {
     key: string | Buffer;
 }
 
-export class DecryptTS {
+export class DecryptTS extends PathManager {
     private key: string | Buffer;
     private decryptedData: Buffer<ArrayBuffer> | null;
 
     constructor({key}: DecryptTSOptionSpecs){
+        super();
         this.key = key;
         this.decryptedData = null;
     }
@@ -45,6 +47,7 @@ export class DecryptTS {
     }
 
     public DecryptAndWriteFile(){
+
         const files = fs.readdirSync(path.join(__dirname, "../../cache/stream/encrypted")).filter(name => name.startsWith("stream-segment") && name.endsWith(".ts"));
         for(const file of files){
             const readFile = fs.readFileSync(path.join(__dirname, "../../cache/stream/encrypted", file));
