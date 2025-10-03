@@ -1,0 +1,247 @@
+[
+    {
+        "no": 1,
+        "name": "0. Introduction",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%200.%20Introduction/Physics1%20M2%20-%200.%20Introduction129.ts"
+    },
+    {
+        "no": 2,
+        "name": "5.1 Angular Position, Angular Velocity and Angular Acceleration",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.1%20Angular%20Position%2C%20Angular%20Velocity%20and%20Angular%20Acceleration/Physics1%20M2%20-%205.1%20Angular%20Position,%20Angular%20Velocity%20and%20Angular%20Acceleration75.ts"
+    },
+    {
+        "no": 3,
+        "name": "5.2 Rotation with Constant Angular Acceleration",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.2%20Rotation%20with%20Constant%20Angular%20Acceleration/Physics1%20M2%20-%205.2%20Rotation%20with%20Constant%20Angular%20Acceleration401.ts"
+    },
+    {
+        "no": 4,
+        "name": "5.3 Linear and Angular Quantities",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.3%20Linear%20and%20Angular%20Quantities/Physics1%20M2%20-%205.3%20Linear%20and%20Angular%20Quantities11.ts"
+    },
+    {
+        "no": 5,
+        "name": "5.4 Rotational Kinetic Energy and Moment of Inertia",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.4%20Rotational%20Kinetic%20Energy%20and%20Moment%20of%20Inertia/Physics1%20M2%20-%205.4%20Rotational%20Kinetic%20Energy%20and%20Moment%20of%20Inertia1063.ts"
+    },
+    {
+        "no": 6,
+        "name": "5.5 [Optional] Moment of Inertia by Integration",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.5%20[Optional]%20Moment%20of%20Inertia%20by%20Integration/Physics1%20M2%20-%205.5%20[Optional]%20Moment%20of%20Inertia%20by%20Integration9.ts"
+    },
+    {
+        "no": 7,
+        "name": "5.6 Parallel-Axis Theorem and Perpendicular-Axis Theorem",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.6%20Parallel-Axis%20Theorem%20and%20Perpendicular-Axis%20Theorem/Physics1%20M2%20-%205.6%20Parallel-Axis%20Theorem%20and%20Perpendicular-Axis%20Theorem10.ts"
+    },
+    {
+        "no": 8,
+        "name": "5.7 Torque",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.7%20Torque/Physics1%20M2%20-%205.7%20Torque8.ts"
+    },
+    {
+        "no": 9,
+        "name": "5.8 Newton's 2nd Law for Rotation",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.8%20Newton%27s%202nd%20Law%20for%20Rotation/Physics1%20M2%20-%205.8%20Newton's%202nd%20Law%20for%20Rotation5.ts"
+    },
+    {
+        "no": 10,
+        "name": "5.9 [Optional] Work and Power in Rotational Motion",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.9%20%5BOptional%5D%20Work%20and%20Power%20in%20Rotational%20Motion/Physics1%20M2%20-%205.9%20[Optional]%20Work%20and%20Power%20in%20Rotational%20Motion11.ts"
+    },
+    {
+        "no": 11,
+        "name": "5.10 Summary",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%205.10%20Summary/Physics1%20M2%20-%205.10%20Summary10.ts"
+    },
+    {
+        "no": 12,
+        "name": "6.1 Rolling Motion",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%206.1%20Rolling%20Motion/Physics1%20M2%20-%206.1%20Rolling%20Motion3.ts"
+    },
+    {
+        "no": 13,
+        "name": "6.2 Vector Product",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%206.2%20Vector%20Product/Physics1%20M2%20-%206.2%20Vector%20Product26.ts"
+    },
+    {
+        "no": 14,
+        "name": "6.3 Torque",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%206.3%20Torque/Physics1%20M2%20-%206.3%20Torque9.ts"
+    },
+    {
+        "no": 15,
+        "name": "6.4 Angular Momentum",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%206.4%20Angular%20Momentum/Physics1%20M2%20-%206.4%20Angular%20Momentum7.ts"
+    },
+    {
+        "no": 16,
+        "name": "6.5 [Optional] Relation between Torque and Angular Momentum",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%206.5%20%5BOptional%5D%20Relation%20between%20Torque%20and%20Angular%20Momentum/Physics1%20M2%20-%206.5%20[Optional]%20Relation%20between%20Torque%20and%20Angular%20Momentum3.ts"
+    },
+    {
+        "no": 17,
+        "name": "6.6 Law of Conservation of Angular Momentum",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%206.6%20Law%20of%20Conservation%20of%20Angular%20Momentum/Physics1%20M2%20-%206.6%20Law%20of%20Conservation%20of%20Angular%20Momentum3.ts"
+    },
+    {
+        "no": 18,
+        "name": "6.7 Summary",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%206.7%20Summary/Physics1%20M2%20-%206.7%20Summary5.ts"
+    },
+    {
+        "no": 19,
+        "name": "7.1 Static Equilibrium",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%207.1%20Static%20Equilibrium/Physics1%20M2%20-%207.1%20Static%20Equilibrium4.ts"
+    },
+    {
+        "no": 20,
+        "name": "7.2 Elasticity",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%207.2%20Elasticity/Physics1%20M2%20-%207.2%20Elasticity3.ts"
+    },
+    {
+        "no": 21,
+        "name": "7.3 Summary",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%207.3%20Summary/Physics1%20M2%20-%207.3%20Summary2.ts"
+    },
+    {
+        "no": 22,
+        "name": "8.1 Simple Harmonic Motion",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.1%20Simple%20Harmonic%20Motion/Physics1%20M2%20-%208.1%20Simple%20Harmonic%20Motion3.ts"
+    },
+    {
+        "no": 23,
+        "name": "8.2 Energy in SHM",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.2%20Energy%20in%20SHM/Physics1%20M2%20-%208.2%20Energy%20in%20SHM5.ts"
+    },
+    {
+        "no": 24,
+        "name": "8.3 Block-Spring System",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.3%20Block-Spring%20System/Physics1%20M2%20-%208.3%20Block-Spring%20System4.ts"
+    },
+    {
+        "no": 25,
+        "name": "8.4 Simple Pendulum",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.4%20Simple%20Pendulum/Physics1%20M2%20-%208.4%20Simple%20Pendulum3.ts"
+    },
+    {
+        "no": 26,
+        "name": "8.5 Torsional Pendulum",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.5%20Torsional%20Pendulum/Physics1%20M2%20-%208.5%20Torsional%20Pendulum4.ts"
+    },
+    {
+        "no": 27,
+        "name": "8.6 Physical Pendulum",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.6%20Physical%20Pendulum/Physics1%20M2%20-%208.6%20Physical%20Pendulum4.ts"
+    },
+    {
+        "no": 28,
+        "name": "8.7 Damped Oscillations",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.7%20Damped%20Oscillations/Physics1%20M2%20-%208.7%20Damped%20Oscillations9.ts"
+    },
+    {
+        "no": 29,
+        "name": "8.8 Forced Oscillations",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.8%20Forced%20Oscillations/Physics1%20M2%20-%208.8%20Forced%20Oscillations8.ts"
+    },
+    {
+        "no": 30,
+        "name": "8.9 Summary",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%208.9%20Summary/Physics1%20M2%20-%208.9%20Summary5.ts"
+    },
+    {
+        "no": 31,
+        "name": "9.1 Waves and Type of Waves",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.1%20Waves%20and%20Type%20of%20Waves/Physics1%20M2%20-%209.1%20Waves%20and%20Type%20of%20Waves3.ts"
+    },
+    {
+        "no": 32,
+        "name": "9.2 Sinusoidal Travelling Wave",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.2%20Sinusoidal%20Travelling%20Wave/Physics1%20M2%20-%209.2%20Sinusoidal%20Travelling%20Wave6.ts"
+    },
+    {
+        "no": 33,
+        "name": "9.3 Wave Speed on a Stretched String",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.3.Wave%20Speed%20on%20a%20Stretched%20String/Physics1%20M2%20-%209.3.Wave%20Speed%20on%20a%20Stretched%20String6.ts"
+    },
+    {
+        "no": 34,
+        "name": "9.4 Rate of Energy Transfer by Sinusoidal Wave",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.4.Rate%20of%20Energy%20Transfer%20by%20Sinusoidal%20Wave/Physics1%20M2%20-%209.4.Rate%20of%20Energy%20Transfer%20by%20Sinusoidal%20Wave5.ts"
+    },
+    {
+        "no": 35,
+        "name": "9.5 Interference of Waves",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.5%20Interference%20of%20Waves/Physics1%20M2%20-%209.5%20Interference%20of%20Waves5.ts"
+    },
+    {
+        "no": 36,
+        "name": "9.6 Standing Waves",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.6%20Standing%20Waves/Physics1%20M2%20-%209.6%20Standing%20Waves5.ts"
+    },
+    {
+        "no": 37,
+        "name": "9.7 Standing Wave on a String",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.7%20Standing%20Wave%20on%20a%20String/Physics1%20M2%20-%209.7%20Standing%20Wave%20on%20a%20String10.ts"
+    },
+    {
+        "no": 38,
+        "name": "9.8 Summary",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%209.8%20Summary/Physics1%20M2%20-%209.8%20Summary4.ts"
+    },
+    {
+        "no": 39,
+        "name": "10.1 Sound Waves",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.1%20Sound%20Waves/Physics1%20M2%20-%2010.1%20Sound%20Waves651.ts"
+    },
+    {
+        "no": 40,
+        "name": "10.2 Interference of Sound Waves",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.2%20Interference%20of%20Sound%20Waves/Physics1%20M2%20-%2010.2%20Interference%20of%20Sound%20Waves10.ts"
+    },
+    {
+        "no": 41,
+        "name": "10.3 Intensity and Sound Level",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.3%20Intensity%20and%20Sound%20Level/Physics1%20M2%20-%2010.3%20Intensity%20and%20Sound%20Level7.ts"
+    },
+    {
+        "no": 42,
+        "name": "10.4 Standing Sound Waves",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.4%20Standing%20Sound%20Waves/Physics1%20M2%20-%2010.4%20Standing%20Sound%20Waves8.ts"
+    },
+    {
+        "no": 43,
+        "name": "10.5 Beats",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.5%20Beats/Physics1%20M2%20-%2010.5%20Beats8.ts"
+    },
+    {
+        "no": 44,
+        "name": "",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.6%20Doppler%20Effect/Physics1%20M2%20-%2010.6%20Doppler%20Effect7.ts"
+    },
+    {
+        "no": 45,
+        "name": "10.7 Shock Waves",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.7%20Shock%20Waves/Physics1%20M2%20-%2010.7%20Shock%20Waves8.ts"
+    },
+    {
+        "no": 46,
+        "name": "10.8 Summary",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%2010.8%20Summary/Physics1%20M2%20-%2010.8%20Summary22.ts"
+    },
+    {
+        "no": 47,
+        "name": "Pre-Exam (1)",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%20Pre-Exam%20%281%29/Physics1%20M2%20-%20Pre-Exam%20(1)8.ts"
+    },
+    {
+        "no": 48,
+        "name": "Pre-Exam (2)",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%20Pre-Exam%20%282%29/Physics1%20M2%20-%20Pre-Exam%20(2)3.ts"
+    },
+    {
+        "no": 49,
+        "name": "Pre-Exam (3)",
+        "url": "https://vdo.inclass.me/beonline/1.66%20module2%20Physics1/Physics1%20M2%20-%20Pre-Exam%20%283%29/Physics1%20M2%20-%20Pre-Exam%20(3)7.ts"
+    }
+]
